@@ -1,0 +1,12 @@
+input{
+	width: 100%;
+	margin: 5px 0px;
+}
+.ft{
+	font-weight: 700;
+	margin-top: 20px;
+}
+#resultDiv{
+	margin: 10% 0% 10% 0%;
+	text-align: center;	
+}
